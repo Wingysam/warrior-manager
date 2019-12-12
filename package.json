@@ -1,0 +1,19 @@
+{
+  "name": "warrior-manager",
+  "version": "1.0.0",
+  "description": "Manage several ArchiveTeam Warrior instances that are managed by Docker Compose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wingy <git@wingysam.xyz>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "spawn-promise": "^0.1.8"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/Wingysam/warrior-manager.git"
+  }
+}
